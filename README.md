@@ -37,6 +37,8 @@ Users can easily add new issues by filling out a form that includes the followin
 
 The system provides a clear and organized list of existing issues, displaying essential information for quick reference.
 
-## Getting Started
+![Screenshot 2023-12-24 124539](https://github.com/AyushRatan1/Codealpha_issue_tracker/assets/135870585/9b821a77-69da-4603-83f9-c8a29d458ca1)
 
-### Prerequisites
+**![Screenshot 2023-12-24 124640](https://github.com/AyushRatan1/Codealpha_issue_tracker/assets/135870585/76e086bf-6c3b-469e-816e-20616dac2299)
+**
+
